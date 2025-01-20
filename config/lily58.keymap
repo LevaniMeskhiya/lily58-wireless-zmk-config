@@ -63,7 +63,7 @@
 &trans          &trans  &trans  &trans  &trans  &trans                    &trans  &trans    &trans    &trans     &kp DEL        &kp HOME
 &trans          &trans  &trans  &trans  &trans  &trans                    &trans  &trans    &kp UP    &trans     &kp PAGE_UP    &kp END
 &kp LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans                    &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &kp PAGE_DOWN  &trans
-&kp LCTRL       &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans    &trans     &kp BACKSLASH  &trans
+&kp LCTRL       &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans    &trans     &kp BACKSLASH  &kp BACKSLASH
                                 &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans
             >;
         };
